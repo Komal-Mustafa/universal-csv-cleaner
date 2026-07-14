@@ -427,7 +427,7 @@ def clean_data(raw_text, blank_mode="fill_na", standardize=True):
 
 
 # ------------------------------------------------------------
-# HERO
+# HERO SECTION
 # ------------------------------------------------------------
 st.markdown(
     """
