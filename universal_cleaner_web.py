@@ -267,7 +267,7 @@ st.markdown(
 )
 
 # ------------------------------------------------------------
-# CORE CLEANING LOGIC (unchanged)
+# CORE CLEANING LOGIC (Using Dicts, Lists, Strings — no pandas or numpy)
 # ------------------------------------------------------------
 junk_values = ["", "none", "null", "n/a", "na", "nan", "-"]
 
